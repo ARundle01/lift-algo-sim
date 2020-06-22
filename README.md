@@ -13,8 +13,18 @@ The specification also required an algorithm written by the student that was, in
 - people in the lift that need to be delivered ahead of the lift
 If either of these conditions are met, it continues in its current direction. If neither are met, then it will change directions and continue the other way.
 
+## What does each file do?
+See below a list of functionality:
+- animation.py : Defines all animation subroutines for use in animating the lifts.
+- graphing.py : Takes the output of statistics from the lifts and makes scatter graphs.
+- gui.py : Creates the menu GUI for users to select number of floors and population.
+- improved_algorithm.py : The decision algorithm for the Improved lift; outputs statistics.
+- naive_algorithm.py : The decision algorithm for the Naïve lift; outputs statistics.
+- main.py : Run this to start the whole program.
+
+
 ## Can I use this code?
 I mean, if you really want to. This code was made to fit the specification under a time pressure so isn't the nicest to look at or work with. 
 
-## Details
+## Requirements
 This code was written in Python 3.8.0 and uses Pygame 1.9.6
