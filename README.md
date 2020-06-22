@@ -11,6 +11,7 @@ The original specification required a basic (sometimes referred to as Naïve) li
 The specification also required an algorithm written by the student that was, in some form or another, more efficient than the Naïve lift. My improved code is based on the SCAN disk scheduling algorithm (sometimes referred to as [The Elevator algorithm](https://en.wikipedia.org/wiki/Elevator_algorithm)) wherein the Lift can now change direction anywhere, on any floor. However, it is always checking for:
 - people in the floors ahead of the lift (if it is going up, it checks for people further up the building.)
 - people in the lift that need to be delivered ahead of the lift
+
 If either of these conditions are met, it continues in its current direction. If neither are met, then it will change directions and continue the other way.
 
 ## What does each file do?
