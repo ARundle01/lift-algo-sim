@@ -2,7 +2,7 @@
 Simulation of two different Lift Algorithms.
 
 ## What is this project?
-This repository contains the code for one of my University projects. This project was for the Data Structures and Algorithms module and concerned the simulation of lifts (elevators). 
+This repository contains the code for one of my University projects. This project was for the Data Structures and Algorithms module and concerned the simulation of lifts (elevators). For a video example see [this video](https://www.youtube.com/watch?v=izZGlbalQ30)
 
 ### The Naïve Lift
 The original specification required a basic (sometimes referred to as Naïve) lift system wherein the lift has a set capacity of six people and could only move up or down. This lift could only change directions when it had reached the top or bottom floor; this is an attempt to model original mechanical lifts.
