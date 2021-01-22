@@ -25,7 +25,7 @@ See below a list of functionality:
 
 
 ## Can I use this code?
-I mean, if you really want to. This code was made to fit the specification under a time pressure so isn't the nicest to look at or work with. 
+I mean, if you really want to. This code was made to fit the specification under a time pressure so isn't the nicest to look at or work with. As this is an old University Project, this is unlikely to be supported unless someone desperately wants to use it (in that case, contact me first and I'll see what I can do).
 
 ## Requirements
 This code was written in Python 3.8.0 and uses Pygame 1.9.6
