@@ -1,6 +1,12 @@
 # lift-algo-sim
 Simulation of two different Lift Algorithms.
 
+
+![GitHub](https://img.shields.io/github/license/ARundle01/lift-algo-sim)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARundle01/lift-algo-sim)
+![GitHub top language](https://img.shields.io/github/languages/top/ARundle01/lift-algo-sim)
+![GitHub language count](https://img.shields.io/github/languages/count/ARundle01/lift-algo-sim)
+
 ## What is this project?
 This repository contains the code for one of my University projects. This project was for the Data Structures and Algorithms module and concerned the simulation of lifts (elevators). For a video example see [this video](https://www.youtube.com/watch?v=izZGlbalQ30).
 
